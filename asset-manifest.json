@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/cardosoepalma/static/css/main.5f361e03.chunk.css",
-    "main.js": "/cardosoepalma/static/js/main.ae02c017.chunk.js",
-    "main.js.map": "/cardosoepalma/static/js/main.ae02c017.chunk.js.map",
+    "main.css": "/cardosoepalma/static/css/main.12f5d3f3.chunk.css",
+    "main.js": "/cardosoepalma/static/js/main.440b0f1a.chunk.js",
+    "main.js.map": "/cardosoepalma/static/js/main.440b0f1a.chunk.js.map",
     "runtime-main.js": "/cardosoepalma/static/js/runtime-main.e3950ee3.js",
     "runtime-main.js.map": "/cardosoepalma/static/js/runtime-main.e3950ee3.js.map",
-    "static/js/2.40a8be54.chunk.js": "/cardosoepalma/static/js/2.40a8be54.chunk.js",
-    "static/js/2.40a8be54.chunk.js.map": "/cardosoepalma/static/js/2.40a8be54.chunk.js.map",
+    "static/js/2.24160765.chunk.js": "/cardosoepalma/static/js/2.24160765.chunk.js",
+    "static/js/2.24160765.chunk.js.map": "/cardosoepalma/static/js/2.24160765.chunk.js.map",
     "index.html": "/cardosoepalma/index.html",
-    "precache-manifest.0c1ff03242045105f2cb776d3ff62fe6.js": "/cardosoepalma/precache-manifest.0c1ff03242045105f2cb776d3ff62fe6.js",
+    "precache-manifest.3fbd714bb93b783f1431dcb237794f6e.js": "/cardosoepalma/precache-manifest.3fbd714bb93b783f1431dcb237794f6e.js",
     "service-worker.js": "/cardosoepalma/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/cardosoepalma/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.40a8be54.chunk.js.LICENSE.txt": "/cardosoepalma/static/js/2.40a8be54.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/cardosoepalma/static/media/logo.5d5d9eef.svg"
+    "static/css/main.12f5d3f3.chunk.css.map": "/cardosoepalma/static/css/main.12f5d3f3.chunk.css.map",
+    "static/js/2.24160765.chunk.js.LICENSE.txt": "/cardosoepalma/static/js/2.24160765.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cardosoepalma/static/media/logo.5d5d9eef.svg",
+    "static/media/logoteste.png": "/cardosoepalma/static/media/logoteste.2b46d42c.png",
+    "static/media/index.css": "/cardosoepalma/static/media/tesla-giga-factory.10605528.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e3950ee3.js",
-    "static/js/2.40a8be54.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ae02c017.chunk.js"
+    "static/js/2.24160765.chunk.js",
+    "static/css/main.12f5d3f3.chunk.css",
+    "static/js/main.440b0f1a.chunk.js"
   ]
 }
