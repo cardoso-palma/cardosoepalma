@@ -1,5 +1,6 @@
 :root {
   --primary-color: #2196f3;
+  --primary-color-darker: rgb(21, 124, 207);
 }
 
 html,body {

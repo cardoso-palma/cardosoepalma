@@ -4,9 +4,9 @@ import './button.css'
 class Button extends React.Component {
     render() {
         return (
-            <div className="centered button">
+            <a className="centered button" onClick={this.props.onClickAction}>
                 {this.props.buttonText}
-            </div>
+            </a>
         );
     }
 }
