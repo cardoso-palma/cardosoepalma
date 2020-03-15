@@ -33,3 +33,8 @@
     padding-left: 2%;
     padding-right: 2%;
 }
+
+#menuOptions a span:hover {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #fff;
+}
