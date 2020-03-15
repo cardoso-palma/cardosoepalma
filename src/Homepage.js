@@ -1,9 +1,18 @@
 import React from 'react';
+import Menu from './Menu'
+import PhotoSlider from './PhotoSlider'
+import AboutUs from './AboutUs'
+import ContactUs from './ContactUs'
 
 class Homepage extends React.Component {
     render() {
         return (
-            <h1>Hi</h1>
+            <div>
+                <Menu/>
+                <PhotoSlider/>
+                <AboutUs/>
+                <ContactUs/>
+            </div>
         );
     }
 }
