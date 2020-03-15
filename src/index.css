@@ -26,3 +26,10 @@ html,body {
   flex-direction: column;
   flex-grow: 1;
 }
+
+
+.init-section {
+  height: 80%;
+  background-image: url("./images/tesla-giga-factory.jpg");
+  background-size: cover;
+}

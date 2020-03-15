@@ -9,8 +9,10 @@ class Homepage extends React.Component {
     render() {
         return (
             <div id='homepage'>
-                <Menu />
-                <PhotoSlider />
+                <div className="init-section">
+                    <Menu />
+                    <PhotoSlider />
+                </div>
                 <AboutUs />
                 <ContactUs />
             </div>
