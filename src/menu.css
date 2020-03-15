@@ -1,4 +1,5 @@
 .menu {
     width: 100%;
-    background-color: blue;
+    height: 10%;
+    background-color: var(--primary-color);
 }
