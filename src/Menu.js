@@ -7,7 +7,7 @@ class Menu extends React.Component {
             <div className='menu'>
                 <div id='logo'>
                 
-                    <img src={require('./logoteste.png')}></img>
+                    <img src={require('./images/logoteste.png')}></img>
 
                 </div>
                 <div id='menuOptions'>
