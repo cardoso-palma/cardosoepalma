@@ -1,4 +1,16 @@
-#photo-div {
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.photo-div {
     min-height: 50%;
-    background-color: lightgray;
+    background-color: lightgray; /* Aqui o background ha de ser as fotos i guess*/
+}
+
+.title-div {
+    width: 50%;
+    background-color: lightblue;
 }
