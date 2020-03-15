@@ -6,7 +6,8 @@ class Menu extends React.Component {
         return (
             <div className='menu'>
                 <div id='logo'>
-                    Logotipo
+                    <img src={require('./logoteste.png')}></img>
+
                 </div>
                 <div id='menuOptions'>
                     <a href="#"> About Us</a>

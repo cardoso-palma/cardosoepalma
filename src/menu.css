@@ -7,7 +7,6 @@
 
 .menu div {
     display: flex;
-    justify-content: center;
     align-items: center;
 }
 
@@ -16,14 +15,21 @@
     margin-left: 15%;
 }
 
+#logo img {
+    width: 50px;
+    height: 50px;
+}
+
 #menuOptions {
     width: 60%;
     text-align: right;
     margin-right: 15%;
+    justify-content: flex-end;
 }
 
 #menuOptions a {
     text-decoration: none;
     color: white;
-    padding: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
