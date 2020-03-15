@@ -1,9 +1,12 @@
 import React from 'react';
+import './photoslider.css'
 
 class PhotoSlider extends React.Component {
     render() {
         return (
-            <p>PhotoSlider</p>
+            <div id="photo-div">
+                Stuff
+            </div>
         );
     }
 }
