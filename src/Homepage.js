@@ -3,11 +3,12 @@ import Menu from './Menu'
 import PhotoSlider from './PhotoSlider'
 import AboutUs from './AboutUs'
 import ContactUs from './ContactUs'
+import './index.css'
 
 class Homepage extends React.Component {
     render() {
         return (
-            <div>
+            <div id='homepage'>
                 <Menu/>
                 <PhotoSlider/>
                 <AboutUs/>
