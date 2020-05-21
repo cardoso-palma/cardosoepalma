@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #2196f3;
+  --primary-color: #29b6f6;
   --primary-color-darker: rgb(21, 124, 207);
 }
 
@@ -29,7 +29,7 @@ html,body {
 
 
 .init-section {
-  min-height: 80%;
+  min-height: 90%;
   background-image: url("./images/tesla-giga-factory.jpg");
   background-size: cover;
 }

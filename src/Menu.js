@@ -11,9 +11,9 @@ class Menu extends React.Component {
 
                 </div>
                 <div id='menuOptions'>
-                    <a href="#"> About Us </a>
+                    <a href="#aboutus_container"> About Us </a>
                     <a href="#"> Portfolio </a>
-                    <a href="#"> Contact Us </a>
+                    <a href="#contactus_container"> Contact Us </a>
                 </div>
             </div>
         );
