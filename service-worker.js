@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cardosoepalma/precache-manifest.3fbd714bb93b783f1431dcb237794f6e.js"
+  "/cardosoepalma/precache-manifest.04359c7ec30adaa8984d19d72652da94.js"
 );
 
 self.addEventListener('message', (event) => {
