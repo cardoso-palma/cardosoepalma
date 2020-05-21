@@ -6,14 +6,14 @@ class Menu extends React.Component {
         return (
             <div className='menu'>
                 <div id='logo'>
-                
+
                     <img src={require('./images/logoteste.png')}></img>
 
                 </div>
                 <div id='menuOptions'>
-                    <a href="#"> <span> About Us </span></a>
-                    <a href="#"> <span> Portfolio </span></a>
-                    <a href="#"> <span> Contact Us </span></a>
+                    <a href="#"> About Us </a>
+                    <a href="#"> Portfolio </a>
+                    <a href="#"> Contact Us </a>
                 </div>
             </div>
         );

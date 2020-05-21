@@ -12,8 +12,8 @@ class PhotoSlider extends React.Component {
         return (
             <div className="centered photo-div">
                 <div className="centered title-div">
-                    <h1 className="subtitle">An impactful phrase here</h1>
-                    <h3 className="subtitle">Uma empresa pequenina e aqui estou só a escrever mais coisas para ver se faz overflow</h3>
+                    <h1 className="title">Cardoso &amp; Palma - Engenharia e Construção, Lda.</h1>
+                    <h3 className="subtitle">Produzir com qualidade significa produzir com segurança</h3>
                     
                 </div>
                 <div className="button-div">

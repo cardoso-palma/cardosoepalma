@@ -33,12 +33,10 @@
 #menuOptions a {
     text-decoration: none;
     color: black;
-    font-weight: 500;
-    padding-left: 2%;
-    padding-right: 2%;
+    margin-left: 15pt;
 }
 
-#menuOptions a span:hover {
+#menuOptions a:hover {
     padding-bottom: 5px;
     border-bottom: 1px solid black;
 }
