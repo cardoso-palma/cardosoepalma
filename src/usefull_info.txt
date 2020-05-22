@@ -1,0 +1,20 @@
+-- deploying:
+npm run deploy
+
+-- inspirations
+https://spm.com.pt/
+https://tecniconstroi.pt/?gclid=CjwKCAjw8J32BRBCEiwApQEKgQ44gfa_T5TN6tO_LmmpMu_sne_b8REauLREyQ06Pgz8qCiIEw9IkhoCXs0QAvD_BwE
+http://rcostaconstrucoes.pt/
+
+-- adding class on scroll ??
+https://stackoverflow.com/questions/44205000/how-to-add-class-in-element-on-scroll-react-js
+https://codesandbox.io/s/5x24l4z9xp?file=/src/App.js
+
+
+-- Ideas
+Adicionar tambem uma secção tipo "Os nossos serviçoes" em que pomos uns pontos sobre o que a empresa oferece (como está no https://spm.com.pt/)
+
+
+-- TODO
+
+Gerar um favicon melhor
