@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62aa5b10491bf403028f6a85cf4169ce",
+    "revision": "b94f6578c39ae5177cf380d32359445e",
     "url": "/cardosoepalma/index.html"
   },
   {
-    "revision": "93d01f79f9e8cd0562ab",
-    "url": "/cardosoepalma/static/css/main.7d013d7a.chunk.css"
+    "revision": "722cb8a0d2e49773651c",
+    "url": "/cardosoepalma/static/css/main.e9f1cac3.chunk.css"
   },
   {
     "revision": "9dfb13293e8904956076",
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cardosoepalma/static/js/2.24160765.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "93d01f79f9e8cd0562ab",
-    "url": "/cardosoepalma/static/js/main.51990fdf.chunk.js"
+    "revision": "722cb8a0d2e49773651c",
+    "url": "/cardosoepalma/static/js/main.86120824.chunk.js"
   },
   {
     "revision": "9f0cdaec7e39b1bec069",
     "url": "/cardosoepalma/static/js/runtime-main.e3950ee3.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/cardosoepalma/static/media/logo.5d5d9eef.svg"
+    "revision": "b3cdfaa306f1567af367992d2105fde3",
+    "url": "/cardosoepalma/static/media/cardoso-palma-logo.b3cdfaa3.png"
   },
   {
-    "revision": "2b46d42cfc6070d3a41776bc2227f34b",
-    "url": "/cardosoepalma/static/media/logoteste.2b46d42c.png"
+    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
+    "url": "/cardosoepalma/static/media/logo.5d5d9eef.svg"
   },
   {
     "revision": "1060552847599093c78b4a7a624d5e7b",
