@@ -5,6 +5,7 @@ npm run deploy
 https://spm.com.pt/
 https://tecniconstroi.pt/?gclid=CjwKCAjw8J32BRBCEiwApQEKgQ44gfa_T5TN6tO_LmmpMu_sne_b8REauLREyQ06Pgz8qCiIEw9IkhoCXs0QAvD_BwE
 http://rcostaconstrucoes.pt/
+https://annea.ai/ (Por os fundos sempre a branco e cinzento e ter só o menu a azul escuro?)
 
 -- adding class on scroll ??
 https://stackoverflow.com/questions/44205000/how-to-add-class-in-element-on-scroll-react-js
@@ -18,3 +19,7 @@ Adicionar tambem uma secção tipo "Os nossos serviçoes" em que pomos uns ponto
 -- TODO
 
 Gerar um favicon melhor
+
+
+-- Sending emails
+https://stackoverflow.com/questions/7381150/how-to-send-an-email-from-javascript

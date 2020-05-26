@@ -1,3 +1,18 @@
 #contactus_container {
-    min-height: 10%
+    min-height: 50%;
+    background-color: var(--primary-color);
+}
+
+.horizontal-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.vertical-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }

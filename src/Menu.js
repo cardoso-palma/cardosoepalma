@@ -10,9 +10,10 @@ class Menu extends React.Component {
                     <img src={require('./images/cardoso-palma-logo.png')}></img>
                 </div>
                 <div id='menuOptions'>
-                    <a href="#aboutus_container"> About Us </a>
-                    <a href="#"> Portfolio </a>
-                    <a href="#contactus_container"> Contact Us </a>
+                    <a href="#aboutus_container"> Sobre Nós </a>
+                    <a href="#ourservices_container"> Os Nossos Serviços </a>
+                    <a href="#portfolio_container"> Portfólio </a>
+                    <a href="#contactus_container"> Contactos </a>
                 </div>
             </div>
         );
