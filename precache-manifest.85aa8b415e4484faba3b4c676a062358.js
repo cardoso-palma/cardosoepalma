@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b94f6578c39ae5177cf380d32359445e",
+    "revision": "92cb337ff76c29798a56f2898baa4b6f",
     "url": "/cardosoepalma/index.html"
   },
   {
-    "revision": "722cb8a0d2e49773651c",
-    "url": "/cardosoepalma/static/css/main.e9f1cac3.chunk.css"
+    "revision": "780bb914e9d74b6e8c0d",
+    "url": "/cardosoepalma/static/css/main.4b9f26da.chunk.css"
   },
   {
     "revision": "9dfb13293e8904956076",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cardosoepalma/static/js/2.24160765.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "722cb8a0d2e49773651c",
-    "url": "/cardosoepalma/static/js/main.86120824.chunk.js"
+    "revision": "780bb914e9d74b6e8c0d",
+    "url": "/cardosoepalma/static/js/main.cac6151c.chunk.js"
   },
   {
     "revision": "9f0cdaec7e39b1bec069",

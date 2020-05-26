@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cardosoepalma/static/css/main.e9f1cac3.chunk.css",
-    "main.js": "/cardosoepalma/static/js/main.86120824.chunk.js",
-    "main.js.map": "/cardosoepalma/static/js/main.86120824.chunk.js.map",
+    "main.css": "/cardosoepalma/static/css/main.4b9f26da.chunk.css",
+    "main.js": "/cardosoepalma/static/js/main.cac6151c.chunk.js",
+    "main.js.map": "/cardosoepalma/static/js/main.cac6151c.chunk.js.map",
     "runtime-main.js": "/cardosoepalma/static/js/runtime-main.e3950ee3.js",
     "runtime-main.js.map": "/cardosoepalma/static/js/runtime-main.e3950ee3.js.map",
     "static/js/2.24160765.chunk.js": "/cardosoepalma/static/js/2.24160765.chunk.js",
     "static/js/2.24160765.chunk.js.map": "/cardosoepalma/static/js/2.24160765.chunk.js.map",
     "index.html": "/cardosoepalma/index.html",
-    "precache-manifest.0bfc2890d8a5be93d5da1bcee963fdfc.js": "/cardosoepalma/precache-manifest.0bfc2890d8a5be93d5da1bcee963fdfc.js",
+    "precache-manifest.85aa8b415e4484faba3b4c676a062358.js": "/cardosoepalma/precache-manifest.85aa8b415e4484faba3b4c676a062358.js",
     "service-worker.js": "/cardosoepalma/service-worker.js",
-    "static/css/main.e9f1cac3.chunk.css.map": "/cardosoepalma/static/css/main.e9f1cac3.chunk.css.map",
+    "static/css/main.4b9f26da.chunk.css.map": "/cardosoepalma/static/css/main.4b9f26da.chunk.css.map",
     "static/js/2.24160765.chunk.js.LICENSE.txt": "/cardosoepalma/static/js/2.24160765.chunk.js.LICENSE.txt",
     "static/media/cardoso-palma-logo.png": "/cardosoepalma/static/media/cardoso-palma-logo.b3cdfaa3.png",
     "static/media/logo.svg": "/cardosoepalma/static/media/logo.5d5d9eef.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.e3950ee3.js",
     "static/js/2.24160765.chunk.js",
-    "static/css/main.e9f1cac3.chunk.css",
-    "static/js/main.86120824.chunk.js"
+    "static/css/main.4b9f26da.chunk.css",
+    "static/js/main.cac6151c.chunk.js"
   ]
 }
