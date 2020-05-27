@@ -1,13 +1,14 @@
 #contactus_container {
-    min-height: 50%;
+    min-height: 60%;
     background-color: var(--primary-color);
 }
 
 .horizontal-div {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     flex-direction: row;
+    width: 45%;
 }
 
 .vertical-div {
@@ -15,4 +16,52 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+
+.input-div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 10%;
+    width: 100%;
+}
+
+
+textarea {
+    resize: none;
+    width: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Open Sans', 'Roboto', 'Sen', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+input[type=text] {
+    height: 30px;
+    width: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Open Sans', 'Roboto', 'Sen', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.submit-button {
+    margin-top: 2%;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    border: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Open Sans', 'Roboto', 'Sen', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+.submit-button:hover {
+    cursor: pointer;
+    background-color: #eee;
+}
+
+.enlarge {
+    width: 50%
+}
+
+.no-margin {
+    margin-bottom: 0px;
 }
