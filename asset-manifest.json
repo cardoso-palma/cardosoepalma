@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/cardosoepalma/static/css/main.4b9f26da.chunk.css",
-    "main.js": "/cardosoepalma/static/js/main.cac6151c.chunk.js",
-    "main.js.map": "/cardosoepalma/static/js/main.cac6151c.chunk.js.map",
+    "main.css": "/cardosoepalma/static/css/main.57a0b85f.chunk.css",
+    "main.js": "/cardosoepalma/static/js/main.0750f493.chunk.js",
+    "main.js.map": "/cardosoepalma/static/js/main.0750f493.chunk.js.map",
     "runtime-main.js": "/cardosoepalma/static/js/runtime-main.e3950ee3.js",
     "runtime-main.js.map": "/cardosoepalma/static/js/runtime-main.e3950ee3.js.map",
-    "static/js/2.24160765.chunk.js": "/cardosoepalma/static/js/2.24160765.chunk.js",
-    "static/js/2.24160765.chunk.js.map": "/cardosoepalma/static/js/2.24160765.chunk.js.map",
+    "static/js/2.70afbe6f.chunk.js": "/cardosoepalma/static/js/2.70afbe6f.chunk.js",
+    "static/js/2.70afbe6f.chunk.js.map": "/cardosoepalma/static/js/2.70afbe6f.chunk.js.map",
     "index.html": "/cardosoepalma/index.html",
-    "precache-manifest.85aa8b415e4484faba3b4c676a062358.js": "/cardosoepalma/precache-manifest.85aa8b415e4484faba3b4c676a062358.js",
+    "precache-manifest.7760805c54a5d6eaaeb5880e2926e230.js": "/cardosoepalma/precache-manifest.7760805c54a5d6eaaeb5880e2926e230.js",
     "service-worker.js": "/cardosoepalma/service-worker.js",
-    "static/css/main.4b9f26da.chunk.css.map": "/cardosoepalma/static/css/main.4b9f26da.chunk.css.map",
-    "static/js/2.24160765.chunk.js.LICENSE.txt": "/cardosoepalma/static/js/2.24160765.chunk.js.LICENSE.txt",
+    "static/css/main.57a0b85f.chunk.css.map": "/cardosoepalma/static/css/main.57a0b85f.chunk.css.map",
+    "static/js/2.70afbe6f.chunk.js.LICENSE.txt": "/cardosoepalma/static/js/2.70afbe6f.chunk.js.LICENSE.txt",
+    "static/media/a_l.png": "/cardosoepalma/static/media/a_l.f1ccca93.png",
+    "static/media/a_r.png": "/cardosoepalma/static/media/a_r.d5c7d0f4.png",
+    "static/media/b_l.png": "/cardosoepalma/static/media/b_l.7b871db8.png",
+    "static/media/b_r.png": "/cardosoepalma/static/media/b_r.07fa0998.png",
+    "static/media/c_l.png": "/cardosoepalma/static/media/c_l.92af0ae2.png",
+    "static/media/c_r.png": "/cardosoepalma/static/media/c_r.aaaaf766.png",
     "static/media/cardoso-palma-logo.png": "/cardosoepalma/static/media/cardoso-palma-logo.b3cdfaa3.png",
     "static/media/logo.svg": "/cardosoepalma/static/media/logo.5d5d9eef.svg",
     "static/media/index.css": "/cardosoepalma/static/media/tesla-giga-factory.10605528.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e3950ee3.js",
-    "static/js/2.24160765.chunk.js",
-    "static/css/main.4b9f26da.chunk.css",
-    "static/js/main.cac6151c.chunk.js"
+    "static/js/2.70afbe6f.chunk.js",
+    "static/css/main.57a0b85f.chunk.css",
+    "static/js/main.0750f493.chunk.js"
   ]
 }
