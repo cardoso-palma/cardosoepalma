@@ -1,6 +1,6 @@
 import React from 'react';
-import Button from './Button'
-import './photoslider.css'
+import Button from './Button';
+import './photoslider.css';
 
 class PhotoSlider extends React.Component {
 

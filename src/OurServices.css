@@ -5,4 +5,5 @@
     min-height: 50%;
     overflow: auto;
     background-color: var(--primary-color);
+    position: relative;
 }

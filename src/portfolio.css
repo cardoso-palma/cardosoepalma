@@ -2,6 +2,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 50%;
+    min-height: 70%;
     overflow: auto;
+    flex-direction: column;
+    position: relative;
+}
+
+#button-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    width: 30%;
 }

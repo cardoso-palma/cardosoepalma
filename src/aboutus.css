@@ -5,6 +5,7 @@
     min-height: 50%;
     overflow: auto;
     flex-direction: column;
+    position: relative;
 }
 
 #aboutus_text {
@@ -12,4 +13,9 @@
     margin-right: 15%;
     font-size: 15pt;
     
+}
+
+.header {
+    position: absolute;
+    top: 5%;
 }

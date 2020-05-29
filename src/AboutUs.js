@@ -5,7 +5,7 @@ class AboutUs extends React.Component {
     render() {
         return (
             <div id="aboutus_container">
-                <h1>Sobre Nós</h1>
+                <h1 className="header">Sobre Nós</h1>
                 <span id="aboutus_text">
                         <p>A Cardoso &amp; Palma - Engenharia e Construção, Lda., teve o seu início em Janeiro de 2020 como sociedade,
                     embora os seus sócios já tenham conhecimentos e projectos elaborados nas áreas de engenharia, arquitetura e construção,

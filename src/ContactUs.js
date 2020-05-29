@@ -1,4 +1,5 @@
 import React from 'react';
+import Maps from "./Maps"
 import './contactus.css'
 
 class ContactUs extends React.Component {
@@ -11,10 +12,10 @@ class ContactUs extends React.Component {
     }
 
     handleInput(event, field) {
-        if (field === "subject") 
-            this.setState({subject: event.target.value});
+        if (field === "subject")
+            this.setState({ subject: event.target.value });
         else
-            this.setState({body: event.target.value});
+            this.setState({ body: event.target.value });
     }
 
     handleSubmit(event) {
@@ -25,13 +26,13 @@ class ContactUs extends React.Component {
     render() {
         return (
             <div id="contactus_container" className="vertical-div">
-                <h1>Contactos</h1>
+                <h1 className="header">Contactos</h1>
 
                 <div className="horizontal-div">
-                    <div className="vertical-div">
-                        <p>maps</p>
+                    <div className="vertical-div" style={{width: "300px", height: "300px"}}>
+                        {/* <Maps /> */}
                     </div>
-                    
+
                     <form className="vertical-div enlarge" onSubmit={(e) => this.handleSubmit(e)}>
                         <h2>Envie-nos um email</h2>
 
@@ -39,13 +40,13 @@ class ContactUs extends React.Component {
                             <label>Assunto</label>
                             <input required type="text" value={this.state.subject} onChange={(e) => this.handleInput(e, "subject")} />
                         </div>
-                        
+
                         <div className="input-div no-margin">
                             <label>Corpo do email</label>
                             <textarea required rows="10" value={this.state.body} onChange={(e) => this.handleInput(e, "body")} />
                         </div>
 
-                        <input type="submit" value="Enviar" className="submit-button"/>
+                        <input type="submit" value="Enviar" className="submit-button" />
                     </form>
 
                 </div>

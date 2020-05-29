@@ -1,6 +1,7 @@
 #contactus_container {
     min-height: 60%;
     background-color: var(--primary-color);
+    position: relative;
 }
 
 .horizontal-div {
