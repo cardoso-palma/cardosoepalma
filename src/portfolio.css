@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 70%;
+    min-height: 90%;
     overflow: auto;
     flex-direction: column;
     position: relative;
@@ -14,4 +14,11 @@
     align-items: center;
     flex-direction: row;
     width: 30%;
+    margin-top: -15%;
+    margin-bottom: 1%;
+}
+
+#image-compare { 
+    width: 35%;
+    height: 20%;
 }

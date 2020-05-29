@@ -14,11 +14,7 @@ class PhotoSlider extends React.Component {
                 <div className="centered title-div">
                     <h1 className="title">Cardoso &amp; Palma - Engenharia e Construção, Lda.</h1>
                     <h3 className="subtitle">Produzir com qualidade significa produzir com segurança</h3>
-                    
-                </div>
-                <div className="button-div">
-                    <Button buttonText={'Saber Mais'} onClickAction={()=> this.buttonAction()}/>
-                </div>
+                </div>      
             </div>
         );
     }

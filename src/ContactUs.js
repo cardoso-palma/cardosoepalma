@@ -31,6 +31,8 @@ class ContactUs extends React.Component {
                 <div className="horizontal-div">
                     <div className="vertical-div" style={{width: "300px", height: "300px"}}>
                         {/* <Maps /> */}
+                        <div style={{height: "100%", backgroundColor:"#eee", width: "100%", display: "flex",
+                    justifyContent: "center", alignItems: "center"}}>Mapa</div>
                     </div>
 
                     <form className="vertical-div enlarge" onSubmit={(e) => this.handleSubmit(e)}>

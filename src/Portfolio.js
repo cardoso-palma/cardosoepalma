@@ -63,7 +63,7 @@ class Portfolio extends React.Component {
                     <Button buttonText={'Próximo'} onClickAction={() => this.moveCursor(false)}/>
                 </div>
                 
-                <div style={{ width: "30%", height: "20%" }}>
+                <div id="image-compare">
                     <ReactCompareImage
                         leftImage={this.state.leftImage}
                         rightImage={this.state.rightImage} />
